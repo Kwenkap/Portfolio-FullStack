@@ -43,7 +43,7 @@ const skillCategories = [
   {
     title: "Cloud",
     icon: Cloud,
-    skills: ["AWS", "Azure"],
+    skills: ["AWS", "Azure","Docker"],
     color: "text-highlight",
   },
 ];
